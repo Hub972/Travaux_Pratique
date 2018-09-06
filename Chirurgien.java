@@ -1,5 +1,5 @@
 public class Chirurgien extends Perso {
-
+// Et pourquoi pas une modif ici
 	public void combattre() {
 		System.out.println("Je ne combat pas");
 
